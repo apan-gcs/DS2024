@@ -2,7 +2,7 @@
 Ms. Pan
 10/4/24
 Intensive Data Science 2
-Classwork #4 - While Loops
+Classwork #6 - While Loops
 
 Two examples: factorial and prime number checker.
 """
